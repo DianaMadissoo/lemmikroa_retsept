@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Grey+Qo&display=swap');
+
+body {
+    background-color: blanchedalmond;
+}
+
+.Heading {
+    text-align: center;
+}
+
+.Recipe-heading {
+    font-family: 'Grey Qo', cursive;
+    font-size: 4rem;
+    color: brown;
+}
+
+.img {
+    width: 250px;
+    padding-left: 30%;   
+}
+
+.Ingridients {
+    border: 2px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: brown;
+}
+
+.Ingridients-table {
+    border: 2px solid chocolate;
+    margin: 0 auto;
+}
+.Instructions {
+    border: 2px solid;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: brown;
+}
+.Instructions ol {
+    margin: 0 auto;
+    border: 2px solid chocolate;
+}
+.footer {
+    text-align: center;
+    font-family: 'Grey Qo', cursive;
+    font-size: 3rem;
+    color: brown;
+}
+
